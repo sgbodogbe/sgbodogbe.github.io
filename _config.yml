@@ -1,0 +1,12 @@
+title: My Jekyll Blog
+
+description: A blog powered by Jekyll
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "http://your-blog-url.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+permalink: pretty
